@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D7757AA8-3051-42B5-8DFD-990B9BBE759A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="emptyProject/Model/CitiesStore.cs">
+    <Files>
+      <File FileName="emptyProject/Program.cs" Line="22" Column="31" />
+      <File FileName="emptyProject/Startup.cs" Line="19" Column="31" />
+      <File FileName="emptyProject/Controller/CitiesController.cs" Line="24" Column="25" />
+      <File FileName="emptyProject/Model/CityDto.cs" Line="10" Column="9" />
+      <File FileName="emptyProject/Model/CitiesStore.cs" Line="8" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.emptyProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

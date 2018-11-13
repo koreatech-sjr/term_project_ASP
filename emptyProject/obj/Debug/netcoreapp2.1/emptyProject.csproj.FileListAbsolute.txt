@@ -1,0 +1,14 @@
+/Users/rock/Projects/emptyProject/emptyProject/bin/Debug/netcoreapp2.1/emptyProject.deps.json
+/Users/rock/Projects/emptyProject/emptyProject/bin/Debug/netcoreapp2.1/emptyProject.runtimeconfig.json
+/Users/rock/Projects/emptyProject/emptyProject/bin/Debug/netcoreapp2.1/emptyProject.runtimeconfig.dev.json
+/Users/rock/Projects/emptyProject/emptyProject/bin/Debug/netcoreapp2.1/emptyProject.dll
+/Users/rock/Projects/emptyProject/emptyProject/bin/Debug/netcoreapp2.1/emptyProject.pdb
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.csprojAssemblyReference.cache
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.csproj.CoreCompileInputs.cache
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.RazorAssemblyInfo.cache
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.RazorAssemblyInfo.cs
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.AssemblyInfoInputs.cache
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.AssemblyInfo.cs
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.RazorTargetAssemblyInfo.cache
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.dll
+/Users/rock/Projects/emptyProject/emptyProject/obj/Debug/netcoreapp2.1/emptyProject.pdb
