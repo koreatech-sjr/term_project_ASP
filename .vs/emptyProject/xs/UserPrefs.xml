@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{D7757AA8-3051-42B5-8DFD-990B9BBE759A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="emptyProject/Model/CitiesStore.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="emptyProject/Model/PointOfInterestForCreate.cs">
     <Files>
       <File FileName="emptyProject/Program.cs" Line="22" Column="31" />
       <File FileName="emptyProject/Startup.cs" Line="19" Column="31" />
-      <File FileName="emptyProject/Controller/CitiesController.cs" Line="24" Column="25" />
-      <File FileName="emptyProject/Model/CityDto.cs" Line="10" Column="9" />
-      <File FileName="emptyProject/Model/CitiesStore.cs" Line="8" Column="21" />
+      <File FileName="emptyProject/Controller/CitiesController.cs" Line="16" Column="9" />
+      <File FileName="emptyProject/Model/CityDto.cs" Line="7" Column="6" />
+      <File FileName="emptyProject/Model/PointOfInterestDto.cs" Line="2" Column="34" />
+      <File FileName="emptyProject/Controller/PointOfInterestController.cs" Line="37" Column="16" />
+      <File FileName="emptyProject/Model/CitiesStore.cs" Line="42" Column="36" NotebookId="1" />
+      <File FileName="emptyProject/Model/PointOfInterestForCreate.cs" Line="13" Column="10" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
